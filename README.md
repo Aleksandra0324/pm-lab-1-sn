@@ -21,7 +21,7 @@ Odpowiedź:  Bez znaczenia. Musi się tylko znajdowac w szeregu.
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  ...
+Odpowiedź:  Nie każdy rodzaj pętli jest wymienny.Można zatąpić jedną konstrukcję drugą ale nie w kązym przypadku.
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
